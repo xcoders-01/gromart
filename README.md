@@ -21,6 +21,10 @@ GroMart aims to revolutionize the way people buy groceries online. We understand
 ## Visual Demo
 
 > _[Folder Screenshot]_
+> ![Logo Gromart](public/assets/logo/gromart.png)
+> <img src="screenshot/login.png" alt="Auth Login" width="250" height="auto" />
+> <img src="screenshot/stores.png" alt="Store" width="250" height="auto"/>
+> <img src="screenshot/sales.png" alt="Sales" width="250" height="auto"/>
 
 ## Prerequisites
 
